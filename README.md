@@ -10,26 +10,22 @@ View or download brand assets from <a href="https://docs.google.com/spreadsheets
 
 <h2>Brand Logo</h2>
 
-<div align="center">
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/bwarelabs-logo-structure.png" width="500"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo.png" width="300"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-black.png" width="300"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-white.png" width="300"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-gray.png" width="300"/>
-</div>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/bwarelabs-logo-structure.png" />
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo.png" width="300"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-black.png" width="300"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-flat-background.png" width="300"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/logo-flat-white-background.png" width="300"/>
 
 <h2>Brand Icon</h2>
 
-<div align="center">
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon.png" width="200"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-black.png" width="200"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-white-background.png" width="200"/>
-  <br/>
-  <img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-white.png" width="200"/>
-</div>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon.png" width="200"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-black.png" width="200"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-white-background.png" width="200"/>
+<br/>
+<img src="https://bwarelabs.com/wp-content/uploads/2021/04/bware-icon-white.png" width="200"/>
