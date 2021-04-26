@@ -6,7 +6,7 @@
 
 <h1 align="center">Brand Assets</h1>
 
-View or download brand assets from <a href="https://docs.google.com/spreadsheets/d/1Vgy5-2J96aQh1n_Qfq0KZ_T32iaGOF0aQnTBhPQjv7E/edit?usp=sharing">Google Drive</a>
+View or download brand assets from <a href="https://drive.google.com/drive/u/1/folders/1ULo41Fk6p9QHEbOCylhKyzQuh2OazqsG">Google Drive</a>
 
 <h2>Brand Logo</h2>
 
