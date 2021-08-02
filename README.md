@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://bwarelabs.com">
-    <img alt="BwareLabs" src="https://raw.githubusercontent.com/bwarelabs/brand-assets/master/png/logo/logo.png" width="60%" />
+    <img alt="BwareLabs" src="https://raw.githubusercontent.com/bwarelabs/brand-assets/master/svg/logo/logo.svg" width="60%" />
   </a>
 </p>
 
