@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://bwarelabs.com">
-    <img alt="BwareLabs" src="https://bwarelabs.com/wp-content/uploads/2021/02/BwareLogo.svg" width="60%" />
+    <img alt="BwareLabs" src="https://raw.githubusercontent.com/bwarelabs/brand-assets/master/png/logo/logo.png" width="60%" />
   </a>
 </p>
 
